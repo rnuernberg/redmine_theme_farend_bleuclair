@@ -363,7 +363,7 @@ div.wiki ul.toc {
 }
 
 #wrapper input[type=text], .modal input[type=text] {
-    font-family: var(--font-mono);
+    font-family: var(--font);
     font-size: 100%
 }
 
